@@ -2,7 +2,7 @@
   <br />
  <h3>🤖🧑🏾‍💻Compiler - Coderz 🧑🏾‍💻🤖</h3>  
  
-Coderz 🤖 is a web-based Online Compiler platform designed to simplify the coding 
+Coderz 🤖 is a Online Compiler platform designed to simplify the coding 
 process by offering an intuitive and efficient environment for writing, testing, and executing 
 code.
   <div>
@@ -45,7 +45,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository:**
 
 ```bash
-git clone https://github.com/Gokhul2003/Coderz
+git clone https://github.com/Aksheyy/Coderz.git
 cd Coderz
 ```
 
@@ -73,5 +73,4 @@ VITE_ONECOMPILER_API=' '
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
